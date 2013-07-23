@@ -1,17 +1,35 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-2-0-RunCylce", "4-2-0-RunCylce\4-2-0-RunCylce.csproj", "{487C3135-68CE-422E-B162-9584BCCB294C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-2-0-RunCylce", "4-2-0-RunCylce\04-2-0-RunCylce.csproj", "{487C3135-68CE-422E-B162-9584BCCB294C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-1-7-MovingSprite", "3-1-7-MovingSprite\3-1-7-MovingSprite.csproj", "{A2A9177A-2DB5-4126-92A6-6B5964ACB1DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-1-7-MovingSprite", "3-1-7-MovingSprite\03-1-7-MovingSprite.csproj", "{A2A9177A-2DB5-4126-92A6-6B5964ACB1DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-3-2-SlowInOut", "4-3-2-SlowInOut\4-3-2-SlowInOut.csproj", "{B5E4E2E0-282F-4504-BFC9-5EEAC43E6A4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-3-2-SlowInOut", "4-3-2-SlowInOut\04-3-2-SlowInOut.csproj", "{B5E4E2E0-282F-4504-BFC9-5EEAC43E6A4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-2-0-CameraWithZoom", "5-2-0-CameraWithZoom\5-2-0-CameraWithZoom.csproj", "{808B4049-FCCC-467E-B269-6CD7EF097A00}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-2-0-CameraWithZoom", "5-2-0-CameraWithZoom\05-2-0-CameraWithZoom.csproj", "{808B4049-FCCC-467E-B269-6CD7EF097A00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-3-1-SimpleTiles", "5-3-1-SimpleTiles\5-3-1-SimpleTiles.csproj", "{AFED93CD-DA91-42D5-AD26-169BA9566B69}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-3-1-SimpleTiles", "5-3-1-SimpleTiles\05-3-1-SimpleTiles.csproj", "{AFED93CD-DA91-42D5-AD26-169BA9566B69}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedContent", "SharedContent\SharedContent.contentproj", "{99AF9415-B77A-4D03-ABDB-6E109887A0B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-11-0-QuiltPatern", "3-11-0-QuiltPatern\03-11-0-QuiltPatern.csproj", "{FDFF91C8-8876-478A-89D3-F08B8829CE8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-2-1-Foreground", "6-2-1-Foreground\06-2-1-Foreground.csproj", "{7039D85B-A6C3-4B2F-BF07-CD6A628EB60E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-5-3-EyeLevel", "6-5-3-EyeLevel\06-5-3-EyeLevel.csproj", "{2B674792-EF1E-4D06-A4DD-A0BF39B670F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-1-0-ParticleEffects1", "8-1-0-ParticleEffects1\08-1-0-ParticleEffects1.csproj", "{7728C4CD-38AA-46BA-82DC-51919768AB1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-1-0-ColorGradient", "9-1-0-ColorGradient\09-1-0-ColorGradient.csproj", "{507D1082-562C-405E-8B1E-318B5CD5EAB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-1-1-PixelMod-CPU", "9-1-1-PixelMod-CPU\09-1-1-PixelMod-CPU.csproj", "{00ED39CF-527E-49AF-B912-E462A62CEEDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-1-2-PixelModBlur-GPU", "9-1-2-PixelModBlur-GPU\09-1-2-PixelModBlur-GPU.csproj", "{740CF9B2-01B4-404C-8EB4-13DFEB29B658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-2-0-SinusoidalBounce", "10-2-0-SinusoidalBounce\10-2-0-SinusoidalBounce.csproj", "{89DD06E9-48BC-4BE4-AEC6-E05D7454332F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-2-0-SinusoidalMotion", "10-2-0-SinusoidalMotion\10-2-0-SinusoidalMotion.csproj", "{CC5C2CA5-D543-41A6-8C20-7512526EFD1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +59,42 @@ Global
 		{AFED93CD-DA91-42D5-AD26-169BA9566B69}.Release|x86.Build.0 = Release|x86
 		{99AF9415-B77A-4D03-ABDB-6E109887A0B0}.Debug|x86.ActiveCfg = Debug|x86
 		{99AF9415-B77A-4D03-ABDB-6E109887A0B0}.Release|x86.ActiveCfg = Release|x86
+		{FDFF91C8-8876-478A-89D3-F08B8829CE8D}.Debug|x86.ActiveCfg = Debug|x86
+		{FDFF91C8-8876-478A-89D3-F08B8829CE8D}.Debug|x86.Build.0 = Debug|x86
+		{FDFF91C8-8876-478A-89D3-F08B8829CE8D}.Release|x86.ActiveCfg = Release|x86
+		{FDFF91C8-8876-478A-89D3-F08B8829CE8D}.Release|x86.Build.0 = Release|x86
+		{7039D85B-A6C3-4B2F-BF07-CD6A628EB60E}.Debug|x86.ActiveCfg = Debug|x86
+		{7039D85B-A6C3-4B2F-BF07-CD6A628EB60E}.Debug|x86.Build.0 = Debug|x86
+		{7039D85B-A6C3-4B2F-BF07-CD6A628EB60E}.Release|x86.ActiveCfg = Release|x86
+		{7039D85B-A6C3-4B2F-BF07-CD6A628EB60E}.Release|x86.Build.0 = Release|x86
+		{2B674792-EF1E-4D06-A4DD-A0BF39B670F5}.Debug|x86.ActiveCfg = Debug|x86
+		{2B674792-EF1E-4D06-A4DD-A0BF39B670F5}.Debug|x86.Build.0 = Debug|x86
+		{2B674792-EF1E-4D06-A4DD-A0BF39B670F5}.Release|x86.ActiveCfg = Release|x86
+		{2B674792-EF1E-4D06-A4DD-A0BF39B670F5}.Release|x86.Build.0 = Release|x86
+		{7728C4CD-38AA-46BA-82DC-51919768AB1F}.Debug|x86.ActiveCfg = Debug|x86
+		{7728C4CD-38AA-46BA-82DC-51919768AB1F}.Debug|x86.Build.0 = Debug|x86
+		{7728C4CD-38AA-46BA-82DC-51919768AB1F}.Release|x86.ActiveCfg = Release|x86
+		{7728C4CD-38AA-46BA-82DC-51919768AB1F}.Release|x86.Build.0 = Release|x86
+		{507D1082-562C-405E-8B1E-318B5CD5EAB7}.Debug|x86.ActiveCfg = Debug|x86
+		{507D1082-562C-405E-8B1E-318B5CD5EAB7}.Debug|x86.Build.0 = Debug|x86
+		{507D1082-562C-405E-8B1E-318B5CD5EAB7}.Release|x86.ActiveCfg = Release|x86
+		{507D1082-562C-405E-8B1E-318B5CD5EAB7}.Release|x86.Build.0 = Release|x86
+		{00ED39CF-527E-49AF-B912-E462A62CEEDF}.Debug|x86.ActiveCfg = Debug|x86
+		{00ED39CF-527E-49AF-B912-E462A62CEEDF}.Debug|x86.Build.0 = Debug|x86
+		{00ED39CF-527E-49AF-B912-E462A62CEEDF}.Release|x86.ActiveCfg = Release|x86
+		{00ED39CF-527E-49AF-B912-E462A62CEEDF}.Release|x86.Build.0 = Release|x86
+		{740CF9B2-01B4-404C-8EB4-13DFEB29B658}.Debug|x86.ActiveCfg = Debug|x86
+		{740CF9B2-01B4-404C-8EB4-13DFEB29B658}.Debug|x86.Build.0 = Debug|x86
+		{740CF9B2-01B4-404C-8EB4-13DFEB29B658}.Release|x86.ActiveCfg = Release|x86
+		{740CF9B2-01B4-404C-8EB4-13DFEB29B658}.Release|x86.Build.0 = Release|x86
+		{89DD06E9-48BC-4BE4-AEC6-E05D7454332F}.Debug|x86.ActiveCfg = Debug|x86
+		{89DD06E9-48BC-4BE4-AEC6-E05D7454332F}.Debug|x86.Build.0 = Debug|x86
+		{89DD06E9-48BC-4BE4-AEC6-E05D7454332F}.Release|x86.ActiveCfg = Release|x86
+		{89DD06E9-48BC-4BE4-AEC6-E05D7454332F}.Release|x86.Build.0 = Release|x86
+		{CC5C2CA5-D543-41A6-8C20-7512526EFD1E}.Debug|x86.ActiveCfg = Debug|x86
+		{CC5C2CA5-D543-41A6-8C20-7512526EFD1E}.Debug|x86.Build.0 = Debug|x86
+		{CC5C2CA5-D543-41A6-8C20-7512526EFD1E}.Release|x86.ActiveCfg = Release|x86
+		{CC5C2CA5-D543-41A6-8C20-7512526EFD1E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
