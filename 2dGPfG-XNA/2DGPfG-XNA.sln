@@ -1,9 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-1-7-MovingSprite", "ColorSample\ColorSample\3-1-7-MovingSprite.csproj", "{A2A9177A-2DB5-4126-92A6-6B5964ACB1DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-2-0-RunCylce", "4-2-0-RunCylce\4-2-0-RunCylce.csproj", "{487C3135-68CE-422E-B162-9584BCCB294C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-1-7-MovingSprite(Content)", "ColorSample\ColorSampleContent\3-1-7-MovingSprite(Content).contentproj", "{218B67DE-E9EF-4E1F-91C2-EE05DD5B201E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-1-7-MovingSprite", "3-1-7-MovingSprite\3-1-7-MovingSprite.csproj", "{A2A9177A-2DB5-4126-92A6-6B5964ACB1DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-3-2-SlowInOut", "4-3-2-SlowInOut\4-3-2-SlowInOut.csproj", "{B5E4E2E0-282F-4504-BFC9-5EEAC43E6A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-2-0-CameraWithZoom", "5-2-0-CameraWithZoom\5-2-0-CameraWithZoom.csproj", "{808B4049-FCCC-467E-B269-6CD7EF097A00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-3-1-SimpleTiles", "5-3-1-SimpleTiles\5-3-1-SimpleTiles.csproj", "{AFED93CD-DA91-42D5-AD26-169BA9566B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedContent", "SharedContent\SharedContent.contentproj", "{99AF9415-B77A-4D03-ABDB-6E109887A0B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +19,28 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{487C3135-68CE-422E-B162-9584BCCB294C}.Debug|x86.ActiveCfg = Debug|x86
+		{487C3135-68CE-422E-B162-9584BCCB294C}.Debug|x86.Build.0 = Debug|x86
+		{487C3135-68CE-422E-B162-9584BCCB294C}.Release|x86.ActiveCfg = Release|x86
+		{487C3135-68CE-422E-B162-9584BCCB294C}.Release|x86.Build.0 = Release|x86
 		{A2A9177A-2DB5-4126-92A6-6B5964ACB1DB}.Debug|x86.ActiveCfg = Debug|x86
 		{A2A9177A-2DB5-4126-92A6-6B5964ACB1DB}.Debug|x86.Build.0 = Debug|x86
 		{A2A9177A-2DB5-4126-92A6-6B5964ACB1DB}.Release|x86.ActiveCfg = Release|x86
 		{A2A9177A-2DB5-4126-92A6-6B5964ACB1DB}.Release|x86.Build.0 = Release|x86
-		{218B67DE-E9EF-4E1F-91C2-EE05DD5B201E}.Debug|x86.ActiveCfg = Debug|x86
-		{218B67DE-E9EF-4E1F-91C2-EE05DD5B201E}.Release|x86.ActiveCfg = Release|x86
+		{B5E4E2E0-282F-4504-BFC9-5EEAC43E6A4F}.Debug|x86.ActiveCfg = Debug|x86
+		{B5E4E2E0-282F-4504-BFC9-5EEAC43E6A4F}.Debug|x86.Build.0 = Debug|x86
+		{B5E4E2E0-282F-4504-BFC9-5EEAC43E6A4F}.Release|x86.ActiveCfg = Release|x86
+		{B5E4E2E0-282F-4504-BFC9-5EEAC43E6A4F}.Release|x86.Build.0 = Release|x86
+		{808B4049-FCCC-467E-B269-6CD7EF097A00}.Debug|x86.ActiveCfg = Debug|x86
+		{808B4049-FCCC-467E-B269-6CD7EF097A00}.Debug|x86.Build.0 = Debug|x86
+		{808B4049-FCCC-467E-B269-6CD7EF097A00}.Release|x86.ActiveCfg = Release|x86
+		{808B4049-FCCC-467E-B269-6CD7EF097A00}.Release|x86.Build.0 = Release|x86
+		{AFED93CD-DA91-42D5-AD26-169BA9566B69}.Debug|x86.ActiveCfg = Debug|x86
+		{AFED93CD-DA91-42D5-AD26-169BA9566B69}.Debug|x86.Build.0 = Debug|x86
+		{AFED93CD-DA91-42D5-AD26-169BA9566B69}.Release|x86.ActiveCfg = Release|x86
+		{AFED93CD-DA91-42D5-AD26-169BA9566B69}.Release|x86.Build.0 = Release|x86
+		{99AF9415-B77A-4D03-ABDB-6E109887A0B0}.Debug|x86.ActiveCfg = Debug|x86
+		{99AF9415-B77A-4D03-ABDB-6E109887A0B0}.Release|x86.ActiveCfg = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

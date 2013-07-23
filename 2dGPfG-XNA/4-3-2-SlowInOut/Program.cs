@@ -1,6 +1,6 @@
 using System;
 
-namespace ColorSample
+namespace slowInOut
 {
 #if WINDOWS || XBOX
     static class Program

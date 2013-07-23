@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ColorSample")]
-[assembly: AssemblyProduct("ColorSample")]
+[assembly: AssemblyTitle("RunCycle")]
+[assembly: AssemblyProduct("RunCycle")]
 [assembly: AssemblyDescription("")]
-[assembly: AssemblyCompany("Champlain College")]
-[assembly: AssemblyCopyright("Copyright © Champlain College 2012")]
+[assembly: AssemblyCompany("GunPile Games")]
+[assembly: AssemblyCopyright("Copyright © John Pile Jr, 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -22,7 +22,7 @@ using System.Runtime.InteropServices;
 // On Windows, the following GUID is for the ID of the typelib if this
 // project is exposed to COM. On other platforms, it unique identifies the
 // title storage container when deploying this assembly to the device.
-[assembly: Guid("c9f09757-65d0-466d-bf36-3716d81a67db")]
+[assembly: Guid("427cca38-360e-4bbd-85c1-cbd048fd4872")]
 
 // Version information for an assembly consists of the following four values:
 //
