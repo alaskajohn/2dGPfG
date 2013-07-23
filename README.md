@@ -10,7 +10,7 @@ http://www.2dgraphicsprogramming.com
 Folders included in this project:
 
 2DGPfG-XNA:
-							-	Contains samples through Chapter 5
+							-	Contains all samples from book
 							- XNA solutions require XNA Game Studio 4.0
 
 2dGPfG-OpenGL:
