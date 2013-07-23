@@ -24,7 +24,7 @@ namespace PixelModBlur
 
         public void LoadContent(ContentManager content)
         {
-            myFont = content.Load<SpriteFont>("Font");
+            myFont = content.Load<SpriteFont>("myFont");
         }
 
         public void Update(GameTime gameTime)

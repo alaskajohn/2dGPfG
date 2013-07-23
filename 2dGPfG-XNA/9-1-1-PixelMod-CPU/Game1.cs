@@ -108,7 +108,7 @@ namespace PixelModCPU
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
             
-            myFont = Content.Load<SpriteFont>("Font");
+            myFont = Content.Load<SpriteFont>("myFont");
             spriteSheet = Content.Load<Texture2D>("snow_assets");
 
             if (type == 0)
