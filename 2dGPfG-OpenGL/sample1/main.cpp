@@ -93,7 +93,7 @@ int main(void)
 
 	if (!glfwInit())
 		exit(EXIT_FAILURE);
-		window = glfwCreateWindow(1280, 720, "2D Graphics Programmign for Games", NULL, NULL);
+		window = glfwCreateWindow(1280, 720, "2D Graphics Programming for Games", NULL, NULL);
 	
 		if (!window)
 	{
